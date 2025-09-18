@@ -1,0 +1,216 @@
+<mxfile host="65bd71144e">
+    <diagram id="P5PGkuq-apxNJj3xRGS4" name="Page-1">
+        <mxGraphModel dx="1972" dy="1121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="SMH.com" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="121" y="349" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div&gt;Step 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="314" width="53" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Buy Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="121" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Claim URL using Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="121" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="9" target="12" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="SMH.com" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="349" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div&gt;Step 2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="314" width="53" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="12" target="13" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Buy URL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Succeeds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Fails" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="504" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Refund as Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="504" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="18" target="20" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Claim URL using Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="504" y="622" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="23" target="27" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="SMH.com" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="718" y="349" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;div&gt;Step 3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="752" y="314" width="53" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Buy URL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="718" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="28" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Succeeds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="718" y="622" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="957" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Fails" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="897" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Refund as Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="897" y="804" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="31" target="33" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Claim URL using Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="897" y="895" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="34" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Precheck" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="718" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="37" target="42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="37" target="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Fulfilment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="718" y="713" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Succeeds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="718" y="804" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="44" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Fails (RARE)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="897" y="713" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="48" target="51" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="SMH.com" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1126" y="349" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;div&gt;Step 4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1160" y="314" width="53" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="51" target="61" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Buy URL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1126" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="53" target="64" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Succeeds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1126" y="622" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="55" target="51" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1365" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="Fails" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1305" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Refund as Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1305" y="804" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="56" target="58" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Claim URL using Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1305" y="895" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="61" target="53" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="61" target="55" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Precheck" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1126" y="531" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="64" target="65" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="64" target="67" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Fulfilment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1126" y="713" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Succeeds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1126" y="804" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="67" target="56" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Fails (RARE)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1305" y="713" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="68" target="51">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="customer.springmicrohost.app&lt;br&gt;(account owner only)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1305" y="349" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70" target="68">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="In-suite checkout feature" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1532" y="257" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Markup Pricing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1696" y="354" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Step 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1729.5" y="323" width="53" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
