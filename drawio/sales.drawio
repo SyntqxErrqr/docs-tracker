@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="jTfEcXMlq1E5djrC0wEz" name="Page-1">
-        <mxGraphModel dx="2193" dy="1334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2193" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -137,6 +137,9 @@
                 </mxCell>
                 <mxCell id="54" value="Automatic nginx connection" style="rounded=1;whiteSpace=wrap;html=1;glass=0;dashed=1;" vertex="1" parent="1">
                     <mxGeometry x="-47" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Key:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;90 degree corner:&lt;/b&gt; Product&lt;br&gt;&lt;b&gt;Soft corner:&lt;/b&gt; Milestone/Project&lt;/p&gt;&lt;p&gt;&lt;b&gt;Solid outline: &lt;/b&gt;Completed&lt;br&gt;&lt;b&gt;Dashed outline:&lt;/b&gt; In progress or not done.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Dashed line:&lt;/b&gt; Major impact on sales&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-678" y="-232" width="440" height="164" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
